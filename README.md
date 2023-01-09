@@ -1,6 +1,6 @@
 # Face_Recognition_CNN
 
-This repository is a face recognition application programmed in Python originally used for a demo for the Minds, Brains and Machines (MBMs) course.
+This repository is a Face Recognition app programmed in Python, originally used for a demo at the Minds, Brains and Machines (MBM) course.
 
 The Convolutional Neuronal Network (CNN) model is trained with three distinct faces and the overall accuracy is of ~98%.
 
